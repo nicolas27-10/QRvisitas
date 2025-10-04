@@ -1,13 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bandera de Chile">
-    <defs>
-        <style>
-            .r{fill:#d0102b}
-            .b{fill:#0039a6}
-            .w{fill:#fff}
-        </style>
-    </defs>
-    <rect class="w" x="0" y="0" width="64" height="32"/>
-    <rect class="r" x="0" y="32" width="64" height="32"/>
-    <rect class="b" x="0" y="0" width="24" height="32"/>
-    <polygon class="w" points="12,6 13.9,11.2 19.5,11.2 14.9,14.5 16.8,19.5 12,16.5 7.2,19.5 9.1,14.5 4.5,11.2 10.1,11.2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" fill="#D0102B"/>
+  <g font-family="Arial, sans-serif" font-weight="900" font-size="20" fill="#000000" text-shadow="2px 2px 0 #ffffff">
+    <text x="2" y="22">R</text>
+    <text x="18" y="22">P</text>
+  </g>
+  <g transform="translate(10, 8)">
+    <path d="M6 2 L7.5 5.5 L11.5 5.5 L8.5 8 L9.5 12 L6 9.5 L2.5 12 L3.5 8 L0.5 5.5 L4.5 5.5 Z" fill="#ffffff" stroke="#000000" stroke-width="0.5"/>
+  </g>
 </svg>
